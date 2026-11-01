@@ -224,7 +224,7 @@ Configure MongoDB Atlas network access appropriately for the deployed service.
 
 ## Project Links
 
-- **GitHub Repository:** Add your repository URL here.
+- **GitHub Repository:** https://github.com/Niranjankumar6108/Prodesk_IT_Sprint_10_Data_Storm.git
 - **Live API:**  https://prodesk-it-sprint-10-data-storm.onrender.com
 - **Demo Video:** Add your demonstration video URL here.
 
